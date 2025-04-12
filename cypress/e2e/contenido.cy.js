@@ -31,3 +31,5 @@ describe('Validación de contenido en la interfaz', () => {
       .should('contain.text', 'Jump right into building with Bootstrap—use the CDN, install it via package manager, or download the source code.')
   });
 });
+
+// repositorio: https://github.com/Simpa0104/PruebasCypress
